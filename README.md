@@ -16,24 +16,14 @@ This project aims to provide insights into sales data through various analytical
 ## Repository Structure
 
 - `data/`: Directory for storing sales data files.
-- `scripts/`: Contains Python scripts for data cleaning and visualization.
 - `notebooks/`: Jupyter notebooks for detailed analysis and visualization.
-- `reports/`: Generated reports and visualizations.
 
 ## Getting Started
 
 To get started with the project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/bahram3d/sales-analysis.git`
-2. Navigate to the project directory: `cd sales-analysis`
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Explore the scripts and notebooks in the respective directories.
+Clone this repository: `git clone https://github.com/bahram3d/sales-analysis.git`
 
-## Usage
-
-- Use the scripts in `scripts/` for automating data cleaning and visualization tasks.
-- Explore the notebooks in `notebooks/` for detailed analysis and insights.
-- Modify and extend the analysis as per your specific requirements.
 
 ## Contributing
 
